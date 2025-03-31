@@ -383,6 +383,8 @@ ul {
     
     .sidebar {
         background-color: var(--sidebar-backdrop);
+        border-top-right-radius: var(--border-radius);
+        border-bottom-right-radius: var(--border-radius);
         backdrop-filter: blur(50px);
         -webkit-backdrop-filter: blur(30px);
         border-right: 1px solid var(--glass-border);
