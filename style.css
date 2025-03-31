@@ -338,6 +338,7 @@ ul {
 .social-icons a {
     font-size: 20px;
     transition: var(--transition);
+    color: var(--light-text);
 }
 
 .social-icons a:hover {
