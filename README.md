@@ -58,10 +58,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
         <br>CSS3
       </td>
-      <td align="center">
+      <!-- <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
         <br>JavaScript
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
