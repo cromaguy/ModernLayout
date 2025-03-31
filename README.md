@@ -6,10 +6,11 @@
   ![License](https://img.shields.io/badge/license-MIT-green)
   ![Status](https://img.shields.io/badge/status-active-brightgreen)
   
-  <img src="/api/placeholder/800/400" alt="ModernLayout Preview" width="600" />
+  <!-- <img src="/api/placeholder/800/400" alt="ModernLayout Preview" width="600" /> -->
 
   <p>A sleek, responsive web layout template featuring modern design elements built with CSS Grid, Flexbox, and glassmorphism effects.</p>
 </div>
+
 
 ## ✨ Features
 
@@ -43,18 +44,6 @@
   - Fast loading components
   - Hardware-accelerated animations
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Basic understanding of HTML, CSS, and JavaScript (for developers)
-
-### Quick Start
-
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Explore the responsive layout on different screen sizes
 
 ## 🛠️ Technology Stack
 
@@ -77,6 +66,7 @@
   </table>
 </div>
 
+
 ## 📚 Key Components
 
 - **CSS Grid Layout**: Main page structure with header, sidebar, content, and footer areas
@@ -87,6 +77,7 @@
 - **Font Awesome Integration**: Scalable vector icons
 - **Google Fonts**: Clean typography with Poppins font family
 - **Media Queries**: Responsive breakpoints for various device sizes
+
 
 ## 🧩 Project Structure
 
@@ -117,6 +108,7 @@ ModernLayout/
 - Custom scrollbar styling
 - Box shadows for depth and elevation
 
+
 ## 📱 Responsive Breakpoints
 
 - **Large Devices**: Default layout
@@ -131,6 +123,7 @@ ModernLayout/
   - Single column card layout
   - Reduced text sizes
 
+
 ## 🖥️ Browser Compatibility
 
 - Chrome 70+
@@ -138,9 +131,11 @@ ModernLayout/
 - Safari 12+
 - Edge 79+
 
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## 👨‍💻 Author
 
@@ -151,7 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <sub>Built with ❤️ using modern CSS techniques</sub>
+  <sub>Built with ❤️ by Anjishnu Nandi</sub>
   <br>
   <sub>⭐ If you found this template helpful, consider giving it a star! ⭐</sub>
 </div>
